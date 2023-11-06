@@ -20,6 +20,12 @@ public class EjemploClaseMath {
         double techo = Math.ceil(3.5);
         System.out.println("techo = " + techo);
         
+        double piso = Math.floor(3.5);
+        System.out.println("piso = " + piso);
+        
+        long entero = Math.round(3.5);
+        System.out.println("entero = " + entero);
+        
     }
     
 }
